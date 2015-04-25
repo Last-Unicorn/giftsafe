@@ -3,4 +3,8 @@
 
     <string name="btn_sender">Act as Homeless</string>
     <string name="btn_receiver">Acts as Donator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_donation_request">DonationRequestActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
