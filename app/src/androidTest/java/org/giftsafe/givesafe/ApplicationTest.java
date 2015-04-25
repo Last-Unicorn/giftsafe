@@ -1,4 +1,4 @@
-package org.giftsafe.giftsafe;
+package org.giftsafe.givesafe;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
